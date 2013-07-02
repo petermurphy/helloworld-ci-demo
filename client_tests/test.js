@@ -26,7 +26,7 @@ page.open('http://127.0.0.1:8000/', function (s) {
 
     console.log("Test complete..");
     phantom.exit();
-  }, 1000); 
+  },  1000); 
     
 });
 
